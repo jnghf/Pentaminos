@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """ Recherche récursive de placement de PENTAMINOS 
-                04/01/2019
+                04/01/2019   2020
 
     XMAX, YMAX : taille de la figure
     Pour une meilleure efficacité de l'algorithme,
